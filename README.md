@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @HayleyB04
-- 👀 I’m interested in video games
-- 🌱 I’m currently learning how to develop my own games
-- 💞️ I’m looking to collaborate on new game ideas
+- 👀 I’m interested in developing my programming knowledge
+- 🌱 I’m currently learning as part of the Code First Girls degree
 - 📫 Reach me at www.linkedin.com/in/hayley-blake-982850129
 - 😄 Pronouns: she/her
 - ⚡ Fun fact: I've lived in multiple different countries
