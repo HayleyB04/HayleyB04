@@ -20,8 +20,8 @@
 
 ![Screenshot 2024-08-26 152111](https://github.com/user-attachments/assets/8ede78a3-d698-4a9b-8884-dbf45d06c937)
 
-- A Pokeapi game (Python and API)
+- A 2D dodge game (Godot)
 
-![Screenshot 2024-08-26 153343](https://github.com/user-attachments/assets/4104433a-e3cb-4628-afd2-c43ac298a2bb)
+![Screenshot 2024-08-31 163753](https://github.com/user-attachments/assets/2d6c51cf-e812-451f-a50a-e1dc98b52303)
 
 
